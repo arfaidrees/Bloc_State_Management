@@ -1,6 +1,6 @@
-# bloc_counter_app
+# Bloc Counter App
 
-A new Flutter project.
+This app provided a clear understanding of BLOC state management, which I successfully implemented in a counter app with increment and decrement buttons.
 
 ## Getting Started
 
